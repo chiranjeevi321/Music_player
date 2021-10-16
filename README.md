@@ -29,9 +29,10 @@ For support, email pattnaik.chiranjeevi31@gmail.com
 
 ## Demo
 
-https://silly-almeida-7580b0.netlify.app
+https://condescending-bhabha-1e27ff.netlify.app/
 
   
 ## Feedback
 
 If you have any feedback, please reach out to us at pattnaik.chiranjeevi31@gmail.com
+
